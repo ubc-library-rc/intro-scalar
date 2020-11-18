@@ -18,3 +18,4 @@ By the end of this tutorial you should be able to…
 * Create a book; 
 * Add multimedia elements to the book. 
 
+[Introduction to Scalar](https://ubc-library-rc.github.io/intro-scalar/) by UBC Library is adapted from the [Digital Publishing with Scalar] (https://pressbooks.library.yorku.ca/scalar/front-matter/introduction/) by York University Libraries which is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, except where otherwise noted.
