@@ -9,30 +9,30 @@ To start building your digital project, click on Back to Book in the right hand 
 
 This will take you to another interface where you can edit your project. All of the tools that you will need are on the righthand side of the screen.
 
-Image here of tools. 
+<img src="images/scalar-toolbar.png" alt="Scalar toolbar" width="800" height="auto">
 
 
 ## Add Pages
 
 To add a page, click on the **plus** icon. You will be asked to provide a title and a description. You can add content to your page, including text or multimedia. 
 
-Image of icon
+<img src="images/scalar-add-page.png" alt="Scalar add page" width="800" height="auto">
 
 You may also select a **Layout**. 
 
-Image of layout
+<img src="images/scalar-layout.png" alt="Scalar layout" width="800" height="auto">
 
 Under **Properties**, you can create a URL for your page as well as select whether you want the page to be visible or hidden. You may want to hide the page until you are finished editing. 
 
-Image of properties
+<img src="images/scalar-properties.png" alt="Scalar properties" width="800" height="auto">
 
 Under **Metadata**, you can add metadata for your page which will ensure that your project is easier to find by people on the Internet. 
 
-Image of metadata 
+<img src="images/scalar-metadata.png" alt="Scalar metadata" width="800" height="auto">
 
 You can edit any existing pages by selecting the **pencil** icon. 
 
-Image of pencil icon. 
+<img src="images/scalar-edit-page.png" alt="Scalar edit page" width="800" height="auto">
 
 ## Add Media 
 
@@ -42,7 +42,7 @@ Scalar can host a variety of media types, including images (JPG, DZI, GIF, etc.)
 
 You can upload media files from your own computer; however, each file size must be less than than 2M in size. If your file is bigger than 2M than you will have to upload it to your own server first or link to it. 
 
-Image of upload media 
+<img src="images/scalar-upload-media.png" alt="Scalar upload media" width="800" height="auto">
 
 You can provide a title and description for each piece of media, as well as metadata. To provide a citation for your piece of media, select **add additional metadata**, and then **bibliographicCitation** and select **Add Field**. Here you can provide a citation for your piece of media. 
 
@@ -50,7 +50,7 @@ You can provide a title and description for each piece of media, as well as meta
 
 You can also link to media that exists on other websites such as Wikimedia by providing the url. 
 
-Image of linking to media 
+<img src="images/scalar-link-media.png" alt="Scalar link media" width="800" height="auto">
 
 ## Link to a Scalar-affiliated media archive or web service
 
@@ -58,11 +58,11 @@ Scalar works with various media archives and web service that make it easy to sh
 
 # Relationships
 
-
-
 ## Add tags 
 
 Tags are non-linear groupings of content. They can be used to create connections between items, but are also their own piece of content. You can group pages by using tags. To add a tag to your page, select the pencil icon to edit the page, and select **Relationships**. From this list, select **Tag**. Next to the text "To make this page a tag," click "specify the items that it tags." Select the content you want to tag and click "Add selected."
+
+<img src="images/scalar-tag.png" alt="Scalar tag" width="800" height="auto">
 
 ## Add Annotations
 
@@ -71,6 +71,8 @@ Annotations can be used to highlight certain aspects of a media object.
 ## Create Paths 
 
 “A path is a linear sequence of content. You can turn any page or media file into a path simply by specifying the pieces of content it contains and their order. Any time you want your reader to experience content in a specific order, use a path” (Scalar). 
+
+<img src="images/scalar-path.png" alt="Scalar path" width="800" height="auto">
 
 ## Add Comments
 
@@ -88,7 +90,7 @@ To re-order the table of contents, simply drag-and-drop to the required position
 
 The **Sharing** tab in the Dashboard allows you to choose whether or not you want to make your Scalar project URL public or private and whether or not you want to make it appear in the Scalar index. 
 
-Image of availability 
+<img src="images/scalar-share.png" alt="Scalar share" width="800" height="auto">
 
 ## Privacy
 
