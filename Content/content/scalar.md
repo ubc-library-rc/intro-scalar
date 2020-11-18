@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Building exhibits with Omeka.net
+title: Building Digital Projects with Scalar
 nav_order: 4
 ---
 # Building Digital Projects with Scalar 
@@ -36,7 +36,7 @@ Image of pencil icon.
 
 ## Add Media 
 
-Every piece of media that you use in your project is treated as its own page. To add media, select the **downward facing arrow** icon. There are multiple ways to add media in your Scalar project. 
+Scalar can host a variety of media types, including images (JPG, DZI, GIF, etc.) video (MP4, FLV), and audio (MP3, WAV). There are a number of ways to organize media on a page. Different media objects, including images, video, and audio files, can be referenced by links within text, located next to text, or inline with text. Every piece of media that you use in your project is treated as its own page. To add media, select the **downward facing arrow** icon. There are multiple ways to add media in your Scalar project. 
 
 # Upload media 
 
@@ -56,15 +56,39 @@ Image of linking to media
 
 Scalar works with various media archives and web service that make it easy to share content from these sites. You can select media directly from Critical Commons, YouTube, Internet Archive, Soundcloud, Vimeo, and Omeka sites. 
 
-# Add tags 
+# Relationships
 
-You can group pages by using tags. To add a tag to your page, select the pencil icon to edit the page, and select **Relationships**. From this list, select **Tag**. Next to the text "To make this page a tag," click "specify the items that it tags." Select the content you want to tag and click "Add selected."
+
+
+## Add tags 
+
+Tags are non-linear groupings of content. They can be used to create connections between items, but are also their own piece of content. You can group pages by using tags. To add a tag to your page, select the pencil icon to edit the page, and select **Relationships**. From this list, select **Tag**. Next to the text "To make this page a tag," click "specify the items that it tags." Select the content you want to tag and click "Add selected."
 
 ## Add Annotations
 
+Annotations can be used to highlight certain aspects of a media object. 
+
 ## Create Paths 
 
+“A path is a linear sequence of content. You can turn any page or media file into a path simply by specifying the pieces of content it contains and their order. Any time you want your reader to experience content in a specific order, use a path” (Scalar). 
+
+## Add Comments
+
+A comment is content which is explicitly identified as a response to other content.
+
+## Add a Table of Contents
+
+Once you are comfortable creating and editing pages, you can organize your pages by adding a table of contents via the Dashboard. To manage your TOC, select the Book Properties tab, next to Table of contents select Add table of contents item.
+
+Once you select Add table of contents item, a pop-up window allows you to select which items to include in the table of contents. Any one of the content types discussed earlier (pages, media, tags, etc.) can be added to the TOC.
+
+To re-order the table of contents, simply drag-and-drop to the required position.
+
 ## Sharing your project 
+
+The **Sharing** tab in the Dashboard allows you to choose whether or not you want to make your Scalar project URL public or private and whether or not you want to make it appear in the Scalar index. 
+
+Image of availability 
 
 ## Privacy
 
