@@ -16,7 +16,7 @@ If you did not receive a registration key from your workshop facilitator, you wi
 
 After you have created your Scalar account, select **Dashboard** and you will be taken to the **Dashboard** where you can edit your Scalar project.
 
-<img src="images/scalar-dashboard.png" alt="Scalar dashboard" width="800" height="600">
+<img src="images/scalar-dashboard.png" alt="Scalar dashboard" width="800" height="auto">
 
 ## Getting started 
 
