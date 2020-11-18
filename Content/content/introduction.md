@@ -3,30 +3,32 @@ layout: default
 title: Introduction
 nav_order: 3
 ---
-# Digital Exhibits
+# Introduction to Scalar
 
-For researchers, digital exhibits can provide an opportunity to communicate research to a broader audience. Digital exhibits can be used to highlight research on many different topics. [The Seahorse Project](https://seahorseproject.omeka.net/), [California Women for Agriculture](https://cawomenforag.omeka.ne), [The Latina History Project](https://latinahistoryproject.omeka.net/), are all examples of websites built using Omeka.net.
+Scalar is a free, open source, multimedia digital publishing platform. [Scalar] (https://scalar.me/anvc/scalar/features/) makes it easy  “for authors to write long-form, born-digital scholarship online”. The platform is sponsored by The Alliance for Networking Visual Culture. Scalar allows you to take advantage of the Internet to create a multimedia project including essays and book-length works. 
 
-## Digital Exhibits and Pedagogy
 
-Digital exhibit assignments can provide students--both undergraduate and graduate-- with opportunities to learn new skills and engage in public research. Skills such as primary source research, digital literacy skills (how to choose a source and evaluate it), knowledge of copyright, open access, and Creative Commons licenses, as well as working with content management systems and creating metadata.
+## Digital Publishing and Pedagogy
 
-There is a lot of flexibility as to how to incorporate digital exhibits as an assignment. For example, you can either ask students to create their own exhibit or ask students to work collaboratively to create one classroom exhibit.
+Unlike traditional research paper assignments, digital publishing assignments provide students with the opportunity to create content that can potentially reach a wider audience. Digital books can be made publicly available and even licensed with a Creative Commons license that allows them to be reused, redistributed, and adapted by other scholars. 
 
-## What is Omeka?
+Scalar has many built in features that make it ideal for digital and public pedagogy. For example, students can be added to a project as collaborators which means that students can work in groups or contribute to a project as a class. Scalar also integrates [hypothes.is] (http://hypothes.is/), an annotation features that enables students and the public to annotate the contents of your book, making it easy for peer-review, feedback, and class discussion. 
 
-[“Omeka”](https://omeka.org/about/project/) is a Swahili word meaning “to display or lay out wares”. Developed by the Roy Rosenzweig Center for History and New Media at George Mason University, Omeka is a free, open source publishing tool, or content management system, that allows you to curate digital collections and make a searchable database. There are currently three instances of Omeka including Omeka.org, Omeka.net, and Omeka S.
+## Building a project with Scalar 
 
-### Omeka.org vs. Omeka.net vs. Omeka S
+Scalar projects are composed of three main units: Media, Pages, and Paths.
 
-Omega.org needs to be hosted on a web hosting server. It is free and highly customizable but requires more expertise to build.
+Media can include videos, images, or documents. Each piece of media has its own URL. Media can be displayed by adding them to your pages. 
 
-Omeka S was created for institutions to manage multiple sites.
+Pages are where you build your content. You can add text, multimedia, and add annotations.
 
-Omeka.net is hosted on Omeka servers. It is easier to use but it is less customizable. Omeka.net offers a tiered, paid subscription as well as a free trial version. The trial version allows you to build 1 site, with 500 MB of storage space. It has very limited plugins or aesthetic features but it’s a great starting point for beginners and learning how to use Omeka.
+Paths connect the pages of your book. They allow you to create a network of connections within your book (i.e. your book does not need to follow a linear path).
 
-### Upgrading your Omeka.net account
 
-Omeka.net has a tiered, paid subscription service. You can upgrade your plan at any time.
+### Examples of Scalar projects 
 
-<img src="images/Upgrade-plan.png" alt="Upgrade plan" width="800" height="auto">
+[Home: FemTechNet Critical Race and Ethnic Studies Pedagogy Workbook] https://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/index 
+[Claude McKay's Early Poetry (1911-1922): A Digital Collection by Amardeep Singh] 
+https://scalar.lehigh.edu/mckay/index 
+
+
