@@ -12,7 +12,7 @@ Go to [Scalar](https://scalar.usc.edu/works/) and register for an account.
 If you did not receive a registration key from your workshop facilitator, you will need to request a registration key by filling out the form. 
 {: .note}
 
-<img src="images/scalar-register.png" alt="Scalar registration form" width="800" height="auto">
+<img src="images/scalar-register.png" alt="Scalar registration form" width="auto" height="auto">
 
 After you have created your Scalar account, select **Dashboard** and you will be taken to the **Dashboard** where you can edit your Scalar project.
 
