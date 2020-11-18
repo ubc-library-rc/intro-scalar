@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Building Digital Projects with Scalar
-nav_order: 4
+nav_order: 5
 ---
 # Building Digital Projects with Scalar 
 
