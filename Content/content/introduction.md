@@ -5,7 +5,9 @@ nav_order: 3
 ---
 # Introduction to Scalar
 
-Scalar is a free, open source, multimedia digital publishing platform. [Scalar] (https://scalar.me/anvc/scalar/features/) makes it easy  “for authors to write long-form, born-digital scholarship online”. The platform is sponsored by The Alliance for Networking Visual Culture. Scalar allows you to take advantage of the Internet to create a multimedia project including essays and book-length works. 
+Scalar is a semantic digital publishing and exhibition platform that enables authors to create projects that emphasize and make use of different media resources. With minimal technical expertise, authors can create rich, visually-striking digital scholarship projects. Scalar enables authors to include media objects in their projects, link to media objects in institutional repositories, and to organize and present the online resources in a structured form. With Scalar, the author can organize pages and media resources in different ways that “take advantage of the unique capabilities of digital writing, including nested, recursive, and non-linear formats” (Scalar) to communicate and support the narrative of the project.
+
+The Scalar platform was produced by The Alliance for Networking Visual Culture at the University of Southern California (USC).
 
 
 ## Digital Publishing and Pedagogy
@@ -31,4 +33,4 @@ Paths connect the pages of your book. They allow you to create a network of conn
 [Claude McKay's Early Poetry (1911-1922): A Digital Collection by Amardeep Singh] 
 https://scalar.lehigh.edu/mckay/index 
 
-
+Introduction to Scalar by UBC Library is adapted from the [Digital Publishing with Scalar] (https://pressbooks.library.yorku.ca/scalar/front-matter/introduction/) by York University Libraries which is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, except where otherwise noted.
