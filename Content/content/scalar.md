@@ -9,14 +9,14 @@ To start building your digital project, click on Back to Book in the right hand 
 
 This will take you to another interface where you can edit your project. All of the tools that you will need are on the righthand side of the screen.
 
-<img src="images/scalar-toolbar.png" alt="Scalar toolbar" width="800" height="auto">
+<img src="images/scalar-toolbar.png" alt="Scalar toolbar" width="auto" height="auto">
 
 
 ## Add Pages
 
 To add a page, click on the **plus** icon. You will be asked to provide a title and a description. You can add content to your page, including text or multimedia. 
 
-<img src="images/scalar-add-page.png" alt="Scalar add page" width="800" height="auto">
+<img src="images/scalar-add-page.png" alt="Scalar add page" width="auto" height="auto">
 
 You may also select a **Layout**. 
 
