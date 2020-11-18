@@ -7,14 +7,16 @@ nav_order: 6
 
 Go to [Scalar](https://scalar.usc.edu/works/) and register for an account. 
 
+<img src="images/scalar-homepage.png" alt="Scalar homepage" width="800" height="auto">
+
 If you did not receive a registration key from your workshop facilitator, you will need to request a registration key by filling out the form. 
 {: .note}
 
-<img src="images/Omeka-mysites.png" alt="Omeka My Sites view" width="800" height="auto">
+<img src="images/scalar-register.png" alt="Scalar registration form" width="800" height="auto">
 
 After you have created your Scalar account, select **Dashboard** and you will be taken to the **Dashboard** where you can edit your Scalar project.
 
-<img src="images/Dashboard.png" alt="Omeka dashboard" width="800" height="auto">
+<img src="images/scalar-dashboard.png" alt="Scalar dashboard" width="800" height="auto">
 
 ## Getting started 
 
