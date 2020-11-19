@@ -66,7 +66,12 @@ Tags are non-linear groupings of content. They can be used to create connections
 
 ## Add Annotations
 
-Annotations can be used to highlight certain aspects of a media object. 
+Annotations can be used to highlight certain aspects of a media object. You can add annotations to both videos and images.
+
+To add an annotation to an image, select an image from the Media gallery via the Dashboard. When you have found the media object you would like to annotate, click the **Paperclip icon**. Click and drag the cursor over the area of the image to be annotated. Add an annotation. Below the image, a box displays the annotation in the Title field. Add full content of the annotation in the Content field, and an optional description of the annotation in the Description field.
+
+Too add an annotation to a video, select a video from the Media gallery. Click the Annotate (paper clip) button.
+Create an annotation by clicking on the plus button, located in the box below the video display.  Drag the play head to the desired start location, then select the green Start Set button. Drag the play head to the desired end location, then select the green green End Set button. Add content, description, and tags. Add additional annotations to the same video by selecting the plus button, located in the box below the video display.
 
 ## Create Paths 
 
@@ -74,9 +79,9 @@ Annotations can be used to highlight certain aspects of a media object.
 
 <img src="images/scalar-path.png" alt="Scalar path" width="auto" height="auto">
 
-## Add Comments
+Create a path from the Home page to an Introduction page by selecting the Edit button on the Home page. Scroll down to the Relationships tab, select Path from the drop down, and click choose the items that it contains. Select the link from the pages that are listed. Immediately create an Introduction page by selecting Create-on-the-fly button, lower left. In the title field, type ‘Introduction’, then select Save and link. The Home page now includes a “Begin with ‘Introduction'” button to prompt readers.
 
-A comment is content which is explicitly identified as a response to other content.
+Repeat the above steps (with the exception of using the  Create-on-the-fly button) to create a path from the Introduction page to the next page of the project. Paths can be created for each page to direct viewers to other pages (and other content). The sequence does not need to a linear sequence. This is a way to promote non-linear narrative structures.
 
 ## Add a Table of Contents
 
