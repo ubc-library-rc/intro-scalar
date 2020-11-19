@@ -1,0 +1,41 @@
+I">
+<h1 id="how-to-set-up-a-scalar-account">How to set up a Scalar account</h1>
+
+<p>Go to <a href="https://scalar.usc.edu/works/">Scalar</a> and register for an account.</p>
+
+<p><img src="images/scalar-homepage.png" alt="Scalar homepage" width="800" height="auto" /></p>
+
+<p class="note">If you did not receive a registration key from your workshop facilitator, you will need to request a registration key by filling out the form.</p>
+
+<p><img src="images/scalar-register.png" alt="Scalar registration form" width="auto" height="auto" /></p>
+
+<p>After you have created your Scalar account, select <strong>Dashboard</strong> and you will be taken to the <strong>Dashboard</strong> where you can edit your Scalar project.</p>
+
+<p><img src="images/scalar-dashboard.png" alt="Scalar dashboard" width="800" height="auto" /></p>
+
+<h2 id="getting-started">Getting started</h2>
+
+<p>To begin working with Scalar, you will first need to create a book where you can add all your content including pages, media, and relationships.</p>
+
+<p>Under <strong>My Books</strong>, add the title of your new book and select <strong>Create New Book</strong>, enter the title for your new book and select the <strong>Create* button</strong>. Your new book will appear under my Books.</p>
+
+<p>Select the book you would like to edit from your drop-down menu.</p>
+
+<p><strong>Book Properties</strong> contains various settings for the book. In Basics, add a Subtitle and Description for the project. The URI segment of the project’s web address can be edited. Table of Contents can be created once pages have been added to the book. In <strong>Style</strong>, ensure that the latest version, (Scalar 2) is selected. The rest of the Style settings can be revisited later on.</p>
+
+<p>Custom CSS or Javascript enable customization of global style aspects of a project, and page level aspects of a project can be modified.</p>
+
+<h2 id="book-users">Book Users</h2>
+
+<p>You can add users to your book project so you can collaborate. Collaborators need to have their own Scalar account. Once they are registered, add them by selecting selecting <strong>Add User</strong>. Search for their name.</p>
+
+<p>There are four different types of users: author, commentator, reviewer and reader.</p>
+
+<ul>
+  <li>Author: Full editing privileges.</li>
+  <li>Commentator: Can edit existing pages, and create pages which will be flagged as commentaries to end users; no other editing privileges.</li>
+  <li>Reviewer: Can edit existing pages; no other editing privileges.</li>
+  <li>Reader: Can add signed comments to public pages; no other special privileges.</li>
+</ul>
+
+:ET
